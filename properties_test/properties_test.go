@@ -3,7 +3,7 @@ package propertiestest
 import (
 	"testing"
 
-	"github.com/heirko/go-contrib/properties"
+	"github.com/saintxak/go-contrib/properties"
 	"github.com/stretchr/testify/assert"
 )
 
