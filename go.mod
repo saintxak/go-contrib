@@ -7,6 +7,7 @@ require (
 	github.com/gogap/config v0.0.0-20190801085516-e664631840ac // indirect
 	github.com/gogap/logrus_mate v1.1.0
 	github.com/sirupsen/logrus v1.4.2
+	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.4.0
 	github.com/stretchr/testify v1.4.0

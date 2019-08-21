@@ -18,7 +18,7 @@ import(
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 	"github.com/heirko/go-contrib/logrusHelper"
-	_ "github.com/heralight/logrus_mate/hooks/file"
+	_ "github.com/gogap/logrus_mate/hooks/file"
 )
 
 

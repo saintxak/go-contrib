@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/saintxak/go-contrib/logrusHelper"
-	_ "github.com/heralight/logrus_mate/hooks/file"
+	_ "github.com/gogap/logrus_mate/hooks/file"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 
